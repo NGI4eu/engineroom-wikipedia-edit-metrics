@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for lang in 'en' 'de' 'fr' 'es' 'it' 'sv' 'nl' 'pl' 'ru'
+do
+	#echo "data/social/id_social_$lang"'.csv'
+	python wiki_edits_monthly_metrics.py './results/social/' 'wiki_edits_monthly_metrics_social' "data/social/id_social_$lang"'.csv' "$lang"
+done
+

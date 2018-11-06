@@ -1,5 +1,5 @@
 # engineroom-wikipedia-edit-metrics
-### Compute metrics to quantify activity on different articles
+### Compute Wikipedia articles activity metrics
 
 The python scripts are to be executed on the Wikimedia Toolforge servers. To get an account, you can follow the instructions here: https://tools.wmflabs.org/ 
 Once obtained access to the Database, create a file DB_info containing on the first line your username, and on the second line your password (you should find this information file "tool_labs.cfg" in your home directory).

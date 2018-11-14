@@ -26,7 +26,7 @@ Once copied the results on your hard drive, run locally the Jupyter Notebook scr
 
 ### Metric descpription
 
-* **pageviews**: numer of times an article has been accessed during one month.
+* **pageviews**: number of times an article has been accessed during one month.
 
 * **month_edits**: number of revisions of the article during a given month, i.e. number of times it has been edited. 
 
